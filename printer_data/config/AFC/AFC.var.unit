@@ -40,7 +40,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": null,
             "density": 1.24,
             "diameter": 1.75,
@@ -52,8 +52,8 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Calibrating",
-            "dist_hub": 80.0,
+            "status": "None",
+            "dist_hub": 115.0,
             "td1_data": {}
         },
         "lane3": {
@@ -80,7 +80,7 @@
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "Calibrating",
             "dist_hub": 90.0,
             "td1_data": {}
         },
